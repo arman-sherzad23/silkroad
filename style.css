@@ -818,7 +818,7 @@ img {
 footer{
   position: relative;
   width: 100%;
-  background: black;
+  background: #3586ff;
   min-height: 100px;
   padding-block-end: 20px 50px;
   display: flex;
